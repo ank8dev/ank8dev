@@ -1,9 +1,11 @@
-### Hi, I'm ank👋
+# Hi, I'm ank 👋
 
-I'm a developer and researcher.  
-I want to understand AI from the inside, so I build tools for learning and for AI agents.
+I'm a developer and researcher.
+I want to understand AI from the inside: how neural networks learn and what actually happens inside them.
 
-Right now I'm trying to grow a virtual "organism" that learns on its own while I just watch.  
+Right now I'm growing a virtual "organism" that learns on its own while I just watch.
+Along the way, I build tools for learning and for AI agents.
 I'm also exploring BCI (brain-computer interfaces).
 
 Open to collabs. DM me.
+
