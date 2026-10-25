@@ -7,5 +7,7 @@ Right now I'm growing a virtual "organism" that learns on its own while I just w
 Along the way, I build tools for learning and for AI agents.
 I'm also exploring BCI (brain-computer interfaces).
 
+My site: https://ank8dev.github.io/
+
 Open to collabs. DM me.
 
